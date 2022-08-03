@@ -1,0 +1,21 @@
+body{
+    font-family: 'PT Serif', serif;
+    position: relative;
+}
+.logo{
+    height: 50px;
+}
+
+.logo-yazi{
+    font-size: 45px;
+}
+.medium-nav{
+    background-color: #FFC017;
+    border-bottom:1px solid #414141;
+}
+.second-nav .container{
+    margin-top: 50px;
+}
+.aside-btn li{
+    margin-bottom: 10px;
+}
